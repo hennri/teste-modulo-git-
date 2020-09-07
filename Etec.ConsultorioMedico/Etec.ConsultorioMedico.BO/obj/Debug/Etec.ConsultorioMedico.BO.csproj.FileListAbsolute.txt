@@ -1,0 +1,9 @@
+C:\Users\3binfo\Documents\Visual Studio 2015\Projects\Etec.ConsultorioMedico\Etec.ConsultorioMedico.BO\bin\Debug\Etec.ConsultorioMedico.BO.dll
+C:\Users\3binfo\Documents\Visual Studio 2015\Projects\Etec.ConsultorioMedico\Etec.ConsultorioMedico.BO\bin\Debug\Etec.ConsultorioMedico.BO.pdb
+C:\Users\3binfo\Documents\Visual Studio 2015\Projects\Etec.ConsultorioMedico\Etec.ConsultorioMedico.BO\obj\Debug\Etec.ConsultorioMedico.BO.csprojResolveAssemblyReference.cache
+C:\Users\3binfo\Documents\Visual Studio 2015\Projects\Etec.ConsultorioMedico\Etec.ConsultorioMedico.BO\obj\Debug\Etec.ConsultorioMedico.BO.dll
+C:\Users\3binfo\Documents\Visual Studio 2015\Projects\Etec.ConsultorioMedico\Etec.ConsultorioMedico.BO\obj\Debug\Etec.ConsultorioMedico.BO.pdb
+C:\Users\3binfo\documents\visual studio 2015\Projects\Etec.ConsultorioMedico\Etec.ConsultorioMedico.BO\bin\Debug\Etec.ConsultorioMedico.CLASS.dll
+C:\Users\3binfo\documents\visual studio 2015\Projects\Etec.ConsultorioMedico\Etec.ConsultorioMedico.BO\bin\Debug\Etec.ConsultorioMedico.DATA.dll
+C:\Users\3binfo\documents\visual studio 2015\Projects\Etec.ConsultorioMedico\Etec.ConsultorioMedico.BO\bin\Debug\Etec.ConsultorioMedico.CLASS.pdb
+C:\Users\3binfo\documents\visual studio 2015\Projects\Etec.ConsultorioMedico\Etec.ConsultorioMedico.BO\bin\Debug\Etec.ConsultorioMedico.DATA.pdb
